@@ -2,18 +2,21 @@
     {
         "title": "위키드",
         "poster": "./posters/wicked_2016.webp",
+        "rating": 3,
         "date": "2016-08-28",
         "actors": "차지연, 정선아, 민우혁, 남경주, 이정화"
     },
     {
         "title": "헤드윅",
         "poster": "./posters/hedwig_2020.jpg",
+        "rating": 5,
         "date": "2020-01-05",
         "actors": "마이클 리, 유리아"
     },
     {
         "title": "지저스 크라이스트 수퍼스타",
         "poster": "./posters/jesus_christ_superstar_2023.jpg",
+        "rating": 5,
         "date": "2023-01-11",
         "actors": "마이클 리, 한지상, 제이민, 김태한, 육현욱, 이한밀, 윤태호, 김민철, 김영우"
     }
