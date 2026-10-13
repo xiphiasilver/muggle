@@ -1,5 +1,47 @@
 [
     {
+        "title": "캣츠",
+        "poster": "./posters/cats_2023.jpg",
+        "rating": 3,
+        "date": "2023-02-26",
+        "actors": "Matt Krzan, Brad Little, Joanna Ampil, Nathan Zach Johnson, Xavier Pellin"
+    },
+    {
+        "title": "킹키부츠",
+        "poster": "./posters/kinky_boots_2026.gif",
+        "rating": 5,
+        "date": "2025-12-24",
+        "actors": "신재범, 강홍석, 허윤슬, 신승환, 유주연"
+    },
+    {
+        "title": "아이다",
+        "poster": "./posters/aida_2020.jpg",
+        "rating": 5,
+        "date": "2020-02-04",
+        "actors": "전나영, 최재림, 정선아, 박성환, 유승엽"
+    },
+    {
+        "title": "노트르담 드 파리",
+        "poster": "./posters/notre_dame_de_paris_2024.jpg",
+        "rating": 5,
+        "date": "2024-02-02",
+        "actors": "양준모, 유리아, 마이클 리, 이정열, 백형훈, 박시원, 최수현"
+    },
+    {
+        "title": "브로드웨이 42번가",
+        "poster": "./posters/42th_street_2023.gif",
+        "rating": 3,
+        "date": "2023-01-10",
+        "actors": "이종혁, 신영숙, 오소연, 이주순, 서성종, 임기홍"
+    },
+    {
+        "title": "물랑루즈",
+        "poster": "./posters/moulin_rouge_2026.gif",
+        "rating": 3,
+        "date": "2026-02-22",
+        "actors": "차윤해, 김지우, 이상민, 박민성, 지현준, 서만석"
+    },
+    {
         "title": "위키드",
         "poster": "./posters/wicked_2016.webp",
         "rating": 3,
