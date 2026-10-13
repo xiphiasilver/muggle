@@ -1,5 +1,12 @@
 [
     {
+        "title": "프랑켄슈타인",
+        "poster": "./posters/frankenstein_2025.webp",
+        "rating": 3,
+        "date": "2025-09-20",
+        "actors": "규현, 박은태, 이지혜, 장은아"
+    },
+    {
         "title": "캣츠",
         "poster": "./posters/cats_2023.jpg",
         "rating": 3,
